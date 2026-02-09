@@ -1,50 +1,28 @@
-<!-- Profile Header -->
-<h1 align="left">Hi, I'm Aarush Patel 👋</h1>
-<p align="left">Welcome to my GitHub profile.</p>
+# Hi, I'm Aarush Patel 👋
 
-<!-- Connect with me -->
-<h2>🌐 Connect with Me</h2>
-<p>
-  <a href="LINKEDIN_URL" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/aarush-patel-95b320345/)" />
-  </a>
-  <a href="mailto:EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <h2>Aarushpatel55823@gmail.com</h2>
-</p>
+Welcome to my GitHub profile.
 
-<hr/>
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mir%20Rahman-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aarush-patel-95b320345/)
+[![Gmail](https://img.shields.io/badge/Email-mirfaiyazrahman@gmail.com%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:AarushPatel55823@gmail.com)
 
-<!-- Trophies -->
-<h2>🏆 GitHub Trophies</h2>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
+---
 
-<hr/>
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mirf-Rahman&theme=onedark&title=-Issues,-Followers&no-frame=true&margin-w=4&margin-h=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- Tech stack icons -->
-<h2>🧰 Tech Stack</h2>
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,python,kotlin,docker,mysql,postgres,linux,git&theme=dark" />
-</p>
+---
 
-<hr/>
+## 📊 My GitHub Stats
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,python,kotlin,docker,mysql,postgres,linux,git&perline=12" alt="Tech stack" />
 
-<!-- Stats -->
-<h2>📈 My GitHub Stats</h2>
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Mirf-Rahman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mirf-Rahman&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirf-Rahman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5)
 
-<p>
-  <img height="170" src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<!---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mirf-Rahman&repo=YOUR_REPO_NAME)](https://github.com/Mirf-Rahman/YOUR_REPO_NAME)
+--->
 
-<!-- Optional visitor counter -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat&color=0A66C2" />
-</p>
+![](https://komarev.com/ghpvc/?username=Mirf-Rahman&color=blueviolet&style=flat-square)
