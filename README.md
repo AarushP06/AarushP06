@@ -1,19 +1,17 @@
 <!-- Profile Header -->
-<h1 align="left">Hi, I'm YOUR_NAME 👋</h1>
+<h1 align="left">Hi, I'm Aarush Patel 👋</h1>
 <p align="left">Welcome to my GitHub profile.</p>
 
 <!-- Connect with me -->
 <h2>🌐 Connect with Me</h2>
 <p>
   <a href="LINKEDIN_URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/aarush-patel-95b320345/)" />
   </a>
   <a href="mailto:EMAIL">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <h2>Aarushpatel55823@gmail.com</h2>
 </p>
 
 <hr/>
